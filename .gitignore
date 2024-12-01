@@ -1,0 +1,5 @@
+# Ignorar archivos de entorno
+.env
+
+# Ignorar directorio del entorno virtual
+myenv/
