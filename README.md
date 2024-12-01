@@ -61,7 +61,7 @@ Ejemplo 1:
 * Lugar: Wonderland
 * Acción: Descubren un portal mágico
 
-<img ./images/ejemplo_1.png>
+<img src="./images/ejemplo_1.png">
 
 Ejemplo 2:
 * Modelo: Qwen_Qwen2.5-0.5B-Instruct
@@ -71,7 +71,7 @@ Ejemplo 2:
 * Lugar: New York
 * Acción: Salvan la ciudad de un desastre
 
-<img ./images/ejemplo_2.png>
+<img src="./images/ejemplo_2.png">
 
 Ejemplo 3:
 * Modelo: EleutherAI_gpt-neo-1.3B
@@ -81,4 +81,4 @@ Ejemplo 3:
 * Lugar: Paris
 * Acción: Encuentran un tesoro escondido
 
-<img /images/ejemplo_3.png>
+<img src="./images/ejemplo_3.png">
